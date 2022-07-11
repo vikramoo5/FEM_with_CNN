@@ -1,0 +1,10 @@
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/rebuild_cache.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/info.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/distclean.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/runclean.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/release.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/debug.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/run.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/edit_cache.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/strip_comments.dir
+/home/vikram/dealii_source/dealii-9.3.3/examples/mtech_1/CMakeFiles/step-49.dir
